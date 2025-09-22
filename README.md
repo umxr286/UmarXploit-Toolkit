@@ -70,7 +70,7 @@ Participated in NASA’s global hackathon focused on climate change awareness.
 
 [![YouTube](https://img.shields.io/badge/YouTube-Umar_Al_Mahfuz-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@UmarAl-Mahfuz)  
 [![Instagram](https://img.shields.io/badge/Instagram-umar.al.mahfuz-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/umar.al.mahfuz)
-[![Linkedln](https://www.linkedin.com/in/umar-al-mahfuz-567251262?original_referer=)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Umar_Al_Mahfuz-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-al-mahfuz-567251262)
 
 ---
 
