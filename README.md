@@ -1,50 +1,80 @@
-# UmarXploit-Toolkit
-Scripts and tools for ethical hacking and recon
+# 👋 Hi, I'm Umar Al-Mahfuz
 
-# 👋 Hey there, I'm Umar Al-Mahfuz
-
-🔐 **Aspiring Cybersecurity Engineer**  
-🧠 **CTF Player | Exploit Learner | Recon Enthusiast**  
-🎯 Currently learning through Hack The Box Academy and hands-on labs  
-📍 Based in Birmingham, UK
+🔐 Aspiring Cybersecurity Engineer  
+🧠 Ethical Hacker | Web App Developer | Recon Specialist  
+📍 Birmingham, UK
 
 ---
 
-## 🚀 My Mission
+## 🚀 About Me
 
-I’m not a cybersecurity expert — *yet*.  
-But I’m committed to becoming one through relentless learning, ethical hacking, and building tools that make systems safer.
-
-I believe in accepting where I am, so I can grow beyond it. Every exploit I study, every vulnerability I test, brings me closer to mastering this craft.
+I'm currently completing my Bachelor's in Cybersecurity, and I'm deeply committed to mastering the art of digital defense. I believe in truthfully acknowledging where I am — because growth starts with honesty.
 
 ---
 
-## 🧰 What I’m Working On
+## 🧪 Projects & Experience
 
-- 🔍 Learning to write my own exploit scripts
-- 📁 Building my first CVE PoC repository
-- 🧪 Practicing privilege escalation and reverse shells
-- 🛠️ Automating recon with Python
+### 🔍 ByteForensics (March–May 2025)
+A custom-built web application developed as part of my final-year project.  
+- Hosted locally using **XAMPP**, powered by **MySQL** and **Apache**
+- Designed for cross-platform compatibility across multiple host devices
+- Focused on forensic analysis and secure data handling
+
+### 🛡️ Ethical Penetration Test (May 2025)
+Conducted a full black-box penetration test using my **Parrot OS pentesting machine**.  
+- Discovered and exploited **5 vulnerabilities**, capturing all associated flags  
+- Used tools like `nmap`, service enumeration, and GitHub exploit scripts  
+- Demonstrated real-world exploitation in a controlled lab environment
+
+### 🌍 NASA Space Apps Challenge (October 2024)
+Participated in NASA’s global hackathon focused on climate change awareness.  
+- Collaborated with a team to build gaming applications and a website  
+- Researched NASA-provided datasets to support the narrative  
+- Reinforced environmental awareness through interactive design
 
 ---
 
-## 📚 My Learning Stack
+## 📜 Certifications
 
-- `nmap`, `enum4linux`, `smbclient`, `ftp`, `hydra`
-- Python scripting for automation and exploitation
-- Hack The Box Academy modules
-- GitHub PoCs and vulnerability research
+- ✅ **CCST: Cybersecurity** (May 2025)  
+- ✅ **CCST: Technician Support** (May 2025)  
+- ✅ **CCST: Networking** (May 2025)  
+- 📘 **CCNA: Introduction to Networks** (Nov 2023)  
+- 📘 **CCNA: Switching, Routing & Wireless Essentials** (Apr 2024)
+
+---
+
+## 🛠️ Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nmap](https://img.shields.io/badge/Nmap-007ACC?style=for-the-badge&logo=nmap&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-1f1f1f?style=for-the-badge&logo=parrot-security&logoColor=green)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-CA2131?style=for-the-badge&logo=apache&logoColor=white)
+
+---
+
+## 🔧 What I'm Working On
+
+- 🔍 Learning to write my own exploit scripts  
+- 📁 Building my first CVE PoC repository  
+- 🧪 Practicing privilege escalation and reverse shells  
+- 🛠️ Automating recon with Python  
+- 📚 Studying advanced modules on Hack The Box Academy
 
 ---
 
 ## 📬 Connect With Me
 
-- [YouTube](https://www.youtube.com/@UmarAl-Mahfuz)
-- [Instagram](https://www.instagram.com/umar.al.mahfuz)
-- [LinkedIn](https://www.linkedin.com/in/umar-al-mahfuz-567251262?original_referer=)
+[![YouTube](https://img.shields.io/badge/YouTube-Umar_Al_Mahfuz-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@UmarAl-Mahfuz)  
+[![Instagram](https://img.shields.io/badge/Instagram-umar.al.mahfuz-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/umar.al.mahfuz)
+[![Linkedln](https://www.linkedin.com/in/umar-al-mahfuz-567251262?original_referer=)
 
 ---
 
 > *“I am not just watching the future unfold. I am engineering it.”*
+
 
 
