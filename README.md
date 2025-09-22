@@ -26,6 +26,15 @@ Conducted a full black-box penetration test using my **Parrot OS pentesting mach
 - Used tools like `nmap`, service enumeration, and GitHub exploit scripts  
 - Demonstrated real-world exploitation in a controlled lab environment
 
+### ☁️ Cover Shift Tracker — Cloud Application (Feb–May 2025)
+Led a team of two in designing and deploying a cloud-based application called Cover Shift Tracker, aimed at streamlining shift management and coverage tracking.
+- Developed and deployed locally within AWS Cloud, using a custom VPC (Virtual Private Cloud) architecture
+- Configured the VPC with 2 public subnets (for internet-facing components) and 2 private subnets (for internal services and databases)
+- All application resources — including EC2 instances, databases, and storage — were provisioned and isolated within the VPC for secure connectivity
+- Focused on secure deployment, subnet routing, and access control to ensure proper segmentation and scalability
+- Oversaw the full development lifecycle: planning, coding, testing, and deployment
+- My leadership and technical direction directly contributed to the project’s success, earning a 2:1 grade in final assessment
+
 ### 🌍 NASA Space Apps Challenge (October 2024)
 Participated in NASA’s global hackathon focused on climate change awareness.  
 - Collaborated with a team to build gaming applications and a website  
@@ -37,7 +46,7 @@ Participated in NASA’s global hackathon focused on climate change awareness.
 ## 📜 Certifications
 
 - ✅ **CCST: Cybersecurity** (May 2025)  
-- ✅ **CCST: Technician Support** (May 2025)  
+- ✅ **CCST: IT Support** (May 2025)  
 - ✅ **CCST: Networking** (May 2025)  
 - 📘 **CCNA: Introduction to Networks** (Nov 2023)  
 - 📘 **CCNA: Switching, Routing & Wireless Essentials** (Apr 2024)
