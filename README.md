@@ -15,10 +15,16 @@ I Have completed my bachelors in cyber security and have graduated with a 2:1 th
 ## 🧪 Projects & Experience
 
 ### 🔍 ByteForensics (March–May 2025)
-A custom-built web application developed as part of my final-year project.  
-- Hosted locally using **XAMPP**, powered by **MySQL** and **Apache**
-- Designed for cross-platform compatibility across multiple host devices
-- Focused on forensic analysis and secure data handling
+Dissertation Title: Developing a forensic tool that collects, analyses, and visualises artefacts of Windows PE files from a disk image
+
+ByteForensics is a custom-built web application designed to perform forensic analysis on Windows Portable Executable (PE) files. It was developed as part of my final-year dissertation in cybersecurity.
+- Built and hosted locally using XAMPP, integrating MySQL and Apache for backend support
+- Successfully implemented client-side analysis and visualization of individual PE files uploaded via the main web interface
+- Designed with cross-platform compatibility in mind, tested across multiple host devices
+- Faced technical challenges when attempting to analyze PE files embedded within full disk images:
+Required additional third-party software to mount and extract contents from disk images
+Encountered limitations in automating extraction and parsing of PE artefacts from mounted images
+- Despite these hurdles, the tool performed effectively for standalone PE file analysis and visualization
 
 ### 🛡️ Ethical Penetration Test (May 2025)
 Conducted a full black-box penetration test using my **Parrot OS pentesting machine**.  
