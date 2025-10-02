@@ -35,7 +35,7 @@ Conducted a full black-box penetration test using my **Parrot OS pentesting mach
 ### 🕹️ NEC(National Exhibition Centre) Tech Showcase — Interactive Chatbot Game (April 2025)
 Role: Tech Learner
 
-Attended the NEC Cyber Security event and engaged with an interactive chatbot experience powered by a Raspberry Pi. The project featured a screen-based interface that guided users through a game-like journey using conversational prompts. This experience deepened my understanding of embedded systems, chatbot logic, and the role of secure communication in interactive design. Most importantly, upon reflection, it taught me the importance and value of a Raspberry Pi.
+Attended a Cyber Security event at the NEC with a colleague and engaged with an interactive chatbot experience powered by a Raspberry Pi. The project featured a screen-based interface that guided users through a game-like journey using conversational prompts. This experience deepened my understanding of embedded systems, chatbot logic, and the role of secure communication in interactive design. Most importantly, upon reflection, it taught me the importance and value of a Raspberry Pi.
 
 ### Highlights:
 
