@@ -32,6 +32,21 @@ Conducted a full black-box penetration test using my **Parrot OS pentesting mach
 - Used tools like `nmap`, service enumeration, and GitHub exploit scripts  
 - Demonstrated real-world exploitation in a controlled lab environment
 
+### 🕹️ NEC(National Exhibition Centre) Tech Showcase — Interactive Chatbot Game (April 2025)
+Role: Exhibitor
+
+Designed and demonstrated an interactive game powered by a Raspberry Pi-based chatbot. The experience guided users through a series of challenges using real-time conversational prompts, blending hardware control, game logic, and user interaction. The project showcased the potential of embedded systems in educational and entertainment contexts, and was presented to a live audience at the NEC.
+
+Tech Stack:
+
+Raspberry Pi (Python, GPIO)
+
+Chatbot logic (custom script or NLP engine)
+
+Physical interface (buttons, LEDs, sensors)
+
+Event-based programming
+
 ### ☁️ Cover Shift Tracker — Cloud Application (Feb–May 2025)
 Led a team of two in designing and deploying a cloud-based application called Cover Shift Tracker, aimed at streamlining shift management and coverage tracking.
 - Developed and deployed locally within AWS Cloud, using a custom VPC (Virtual Private Cloud) architecture
