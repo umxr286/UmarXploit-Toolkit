@@ -55,7 +55,8 @@ Led a team of two in designing and deploying a cloud-based application called Co
 - My leadership and technical direction directly contributed to the project’s success, earning a 2:1 grade in final assessment
 
 ### 🛡️ Capture The Flag (CTF) Challenge – February 2025
-Role: Participant | Tools Used: Kali Linux, Nmap, Dirb Organized by the Ethical Hacking lecturer and Head of Cyber Security at my university, this CTF event brought together final-year students to tackle real-world cybersecurity challenges.
+Role: Participant | Tools Used: Kali Linux, Nmap, Dirb 
+Organized by the Ethical Hacking lecturer and Head of Cyber Security at my university, this CTF event brought together final-year cybersecurity students to tackle real-world cybersecurity challenges.
 
 - Collaborated in a team to identify and exploit vulnerabilities across five flag challenges
 
