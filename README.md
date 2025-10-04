@@ -54,6 +54,17 @@ Led a team of two in designing and deploying a cloud-based application called Co
 - Oversaw the full development lifecycle: planning, coding, testing, and deployment
 - My leadership and technical direction directly contributed to the project’s success, earning a 2:1 grade in final assessment
 
+### 🛡️ Capture The Flag (CTF) Challenge – February 2025
+Role: Participant | Tools Used: Kali Linux, Nmap, Dirb Organized by the Ethical Hacking lecturer and Head of Cyber Security at my university, this CTF event brought together final-year students to tackle real-world cybersecurity challenges.
+
+- Collaborated in a team to identify and exploit vulnerabilities across five flag challenges
+
+- Successfully captured one flag by uncovering a hidden path in a web URL using reconnaissance techniques
+
+- Utilized tools such as nmap for network scanning and dirb for directory brute-forcing
+
+- Gained practical experience in ethical hacking, web exploitation, and Linux-based command execution
+
 ### 🌍 NASA Space Apps Challenge (October 2024)
 Participated in NASA’s global hackathon focused on climate change awareness.  
 - Collaborated with a team to build gaming applications and a website  
